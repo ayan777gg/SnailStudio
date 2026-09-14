@@ -12,3 +12,7 @@ can import objs now
 Version: 1.2
 
 Can import in glb now
+
+Version 1.3
+
+Added Animations
