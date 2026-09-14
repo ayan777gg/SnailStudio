@@ -1,5 +1,4 @@
-SnailStudio/Blender Port to Browser
-
+SnailStudio/ 3d Engine
 W.I.P 
 
 Version: 1
